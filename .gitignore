@@ -1,0 +1,26 @@
+*.bmp
+*.csv
+*.jpg
+*.mat
+*.zip
+*.pdf
+*.npz
+*.h5
+*.ini
+*.json
+*.png
+*.ods
+*.tar
+*.db
+*/Before/*
+Before/*
+*/Test Images/*
+Test Images/*
+*/.vscode/*
+.vscode/*
+*/pandas/*
+pandas/*
+*/__pycache__/*
+__pycache__/*
+*/runs/*
+runs/*
